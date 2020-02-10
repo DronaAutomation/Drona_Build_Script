@@ -33,11 +33,11 @@ function variables() {
 
         anykernel() {
             essential_variables() {
-                AK_DIR=DronaKernel/build/non-oc/anykernel
+                AK_DIR=DronaKernel/build/non-oc/anykernel3
                 KERNEL_NAME=dronakernel
             }
             remote_variables() {
-                AK_REPO=https://github.com/shivamjadon/AnyKernel
+                AK_REPO=https://github.com/shivamjadon/AnyKernel3
                 AK_BRANCH=master
             }
             zip_filename_variables() {
